@@ -1,0 +1,1 @@
+# pdf-generator-by-test-patterns
