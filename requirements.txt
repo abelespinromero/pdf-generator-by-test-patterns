@@ -1,0 +1,5 @@
+reportlab==3.6.12
+fitz
+pdfminer.six
+PyPDF2==1.26.0
+pdfplumber==0.10.2
